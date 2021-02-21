@@ -50,10 +50,11 @@ Legend:
 * G-CORE
   * [G-CORE: A Core for Future Graph Query Languages](https://arxiv.org/pdf/1712.01550.pdf) by Renzo Angles et al. (SIGMOD 2018)
 
-### Misc
+### Overview papers and talks
 
 * [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/pdf/1910.09017.pdf) by Maciej Besta et al. (preprint, 2020)
 * [Foundations of Modern Graph Query Languages](https://dblp.org/rec/journals/csur/AnglesABHRV17.html?view=bibtex) by Renzo Angles et al. (ACM CSUR, 2017)
+* [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/job/gql-survey.pdf) by Peter Boncz (2020)
 
 ## Technical reports
 
@@ -68,6 +69,7 @@ Legend:
 
 * :zap: :tv: [The Linked Data Benchmark Council](https://docs.google.com/presentation/d/1oXKh94R4myUV5RvgeXn7OzhbveAn9Dg1Q4LlOkFrSko/) by Various Artists (2020)
 * :zap: :tv: [Graph database applications with SQL/PGQ](https://download.oracle.com/otndocs/products/spatial/pdf/AnD2020/AD_Develop_Graph_Apps_SQL_PGQ.pdf) by Jan Michels, Andy Witkowski (2020)
+* :zap: :tv: [Property Graph Extensions for the SQL Standard](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859&preview=/106233859/111706119/ldbc_tuc_2019_sql-pgq.pdf) by Vasileios Trigonakis and Oskar van Rest (LDBC TUC 2019)
 * :tv: [Mapping Graph Queries to PostgreSQL](https://www.slideshare.net/szarnyasg/mapping-graph-queries-to-postgresql) by Gábor Szárnyas et al. (2018)
 
 ## Implementations
@@ -94,7 +96,7 @@ Venues where interesting graph/SQL papers are most likely to appear:
 * [Alastair Green on GQL: the Graph Query Language – The Graph Show](https://www.youtube.com/watch?v=2sLTQQel4NM)
   * [Query languages, Cypher, SQL/PGQ from 25:15 (~8 minutes)](https://youtu.be/2sLTQQel4NM?t=1515)
 
-## Misc pointers
+## Misc papers and talks
 
-* [AMW paper 2019](http://ceur-ws.org/Vol-2369/short06.pdf)
+* [On Directly Mapping Relational Databases to Property Graphs](http://ceur-ws.org/Vol-2369/short06.pdf), AMW 2019
 * SAP HANA Graph: [blog post](https://blogs.sap.com/2020/04/27/create-graphs-on-sap-hana-cloud/), [tutorial](https://developers.sap.com/tutorials/hana-graph-overview-setup.html), using the [`CREATE GRAPH WORKSPACE`](https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/e6e1c7e2b9064b05b26572808f941ec4.html) language construct
