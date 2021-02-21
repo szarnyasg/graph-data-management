@@ -97,3 +97,4 @@ Venues where interesting graph/SQL papers are most likely to appear:
 ## Misc pointers
 
 * [AMW paper 2019](http://ceur-ws.org/Vol-2369/short06.pdf)
+* SAP HANA Graph: [blog post](https://blogs.sap.com/2020/04/27/create-graphs-on-sap-hana-cloud/), [tutorial](https://developers.sap.com/tutorials/hana-graph-overview-setup.html), using the [`CREATE GRAPH WORKSPACE`](https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/e6e1c7e2b9064b05b26572808f941ec4.html) language construct
