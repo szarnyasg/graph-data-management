@@ -74,7 +74,7 @@ Legend:
 
 ## Implementations
 
-* [Morpheus: Cypher for Apache Spark](https://github.com/opencypher/morpheus) (abandoned)
+* [Morpheus: Cypher for Apache Spark](https://github.com/opencypher/morpheus) (abandoned) :tv: [slides](https://www.slideshare.net/databricks/neo4j-morpheus-interweaving-documents-tables-and-and-graph-data-in-spark-with-alastair-green-and-mats-rydberg)
 * [CYpher TO Sql Mapper (Cytosm)](https://github.com/cytosm/cytosm) (abandoned)
 * [ingraph: incremental graph queries](http://github.com/ftsrg/ingraph) (`cypher-to-sql` branch, abandoned)
 * [AgensGraph](https://github.com/bitnine-oss/agensgraph)
