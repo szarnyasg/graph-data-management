@@ -36,6 +36,7 @@ Legend:
 * [PGQL: a property graph query language](https://event.cwi.nl/grades/2016/07-VanRest.pdf) by Oskar van Rest et al. (GRADES 2016)
 * [Extending SQL for Computing Shortest Paths](https://ir.cwi.nl/pub/27563/27563.pdf) by Dean De Leo and Peter Boncz (GRADES 2017) :tv: [[talk at the LDBC TUC 2017]](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=59277315&preview=/59277315/75628546/de%20Leo%20presentation%202017-02-09__pdf.pdf)
 * [GraphWrangler: An Interactive Graph View on Relational Data](https://cs.uwaterloo.ca/~ssalihog/papers/anzum-graphwrangler.pdf), demo paper (SIGMOD 2019)
+* [Towards compiling graph queries in relational engines](https://dl.acm.org/doi/pdf/10.1145/3315507.3330200) (DBPL 2019)
 
 ### Graphs and SPARQL
 
