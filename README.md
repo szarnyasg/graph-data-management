@@ -28,8 +28,8 @@ Legend:
   * Longer version: [All-in-One: Graph Processing in RDBMSs Revisited](https://dl.acm.org/doi/10.1145/3035918.3035943) (SIGMOD 2017)
 * :zap: [An Algebra and Equivalences to Transform Graph Patterns in Neo4j](http://ceur-ws.org/Vol-1558/paper24.pdf) by Jürgen Hölsch, Michael Grossniklaus (GraphQ 2016)
 * :star: [GraphGen: Adaptive Graph Processing using Relational Databases](https://event.cwi.nl/grades/2017/09-Xirogiannopoulos.pdf) by [Konstantinos Xirogiannopoulos](http://www.cs.umd.edu/~kostasx/)
-* :star: [Extending In-Memory Relational Database Engines with Native Graph Support](https://openproceedings.org/2018/conf/edbt/paper-17.pdf) by Mohamed S. Hassan, Tatiana Kuznetsova, Hyun Chai Jeong, Walid G. Aref, Mohammad Sadoghi (EDBT 2018) about [GRFusion](https://dl.acm.org/doi/10.1145/3183713.3193541) ([code](https://github.com/purduedb/GRFusion))
-* :dizzy: [Graph Pattern Matching - Do We Have to Reinvent the Wheel?](https://event.cwi.nl/grades2014/08-gubichev.pdf) by Andrey Gubichev, Manuel Then (GRADES 2014) :tv: [slides](https://event.cwi.nl/grades2014/08-gubichev-slides.pdf)
+* :star: [Extending In-Memory Relational Database Engines with Native Graph Support](https://openproceedings.org/2018/conf/edbt/paper-17.pdf) by Mohamed S. Hassan, Tatiana Kuznetsova, Hyun Chai Jeong, Walid G. Aref, Mohammad Sadoghi (EDBT 2018) about [GRFusion](https://dl.acm.org/doi/10.1145/3183713.3193541) (SIGMOD demo), [code](https://github.com/purduedb/GRFusion)
+* :dizzy: [Graph Pattern Matching – Do We Have to Reinvent the Wheel?](https://event.cwi.nl/grades2014/08-gubichev.pdf) by Andrey Gubichev, Manuel Then (GRADES 2014) :tv: [slides](https://event.cwi.nl/grades2014/08-gubichev-slides.pdf)
 * [Join Processing for Graph Patterns: An Old Dog with New Tricks](https://arxiv.org/pdf/1503.04169.pdf) by Dung T. Nguyen, Molham Aref et al. (GRADES 2015)
 * [G-SQL: Fast Query Processing via Graph Exploration](http://www.vldb.org/pvldb/vol9/p900-ma.pdf) by Hongbin Ma et al. (VLDB 2016)
 * [Cytosm: Declarative Property Graph Queries Without Data Migration](https://event.cwi.nl/grades/2017/04-Steer.pdf) by Benjamin A. Steer et al. (GRADES 2017)
@@ -56,6 +56,7 @@ Legend:
 * [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/pdf/1910.09017.pdf) by Maciej Besta et al. (preprint, 2020)
 * [Foundations of Modern Graph Query Languages](https://dblp.org/rec/journals/csur/AnglesABHRV17.html?view=bibtex) by Renzo Angles et al. (ACM CSUR, 2017)
 * [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/job/gql-survey.pdf) by Peter Boncz (2020)
+* [The ubiquity of large graphs and surprising challenges of graph processing: Extended survey](https://link.springer.com/article/10.1007/s00778-019-00548-x) by Siddhartha Sahu et al. (VLDBJ 2020)
 
 ## Technical reports
 
@@ -98,6 +99,12 @@ Venues where interesting graph/SQL papers are most likely to appear:
   * [Query languages, Cypher, SQL/PGQ from 25:15 (~8 minutes)](https://youtu.be/2sLTQQel4NM?t=1515)
 
 ## Misc papers and talks
+
+### BFS
+
+* [An analysis of the SIGMOD 2014 Programming Contest: Complex queries on the LDBC social network graph](https://arxiv.org/pdf/2010.12243.pdf) by Márton Elekes et al. (technical report, 2020) and the BFS papers referenced in this report
+
+### Relational databases and property graphs
 
 * [On Directly Mapping Relational Databases to Property Graphs](http://ceur-ws.org/Vol-2369/short06.pdf), AMW 2019
 * SAP HANA Graph: [blog post](https://blogs.sap.com/2020/04/27/create-graphs-on-sap-hana-cloud/), [tutorial](https://developers.sap.com/tutorials/hana-graph-overview-setup.html), using the [`CREATE GRAPH WORKSPACE`](https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/e6e1c7e2b9064b05b26572808f941ec4.html) language construct
