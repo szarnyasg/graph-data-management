@@ -70,8 +70,8 @@ Legend:
 ## Talks
 
 * :zap: :tv: [The Linked Data Benchmark Council](https://docs.google.com/presentation/d/1oXKh94R4myUV5RvgeXn7OzhbveAn9Dg1Q4LlOkFrSko/) by Various Artists (2020)
-* :zap: :tv: [Graph database applications with SQL/PGQ](https://download.oracle.com/otndocs/products/spatial/pdf/AnD2020/AD_Develop_Graph_Apps_SQL_PGQ.pdf) by Jan Michels, Andy Witkowski (2020)
-* :zap: :tv: [Property Graph Extensions for the SQL Standard](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859&preview=/106233859/111706119/ldbc_tuc_2019_sql-pgq.pdf) by Vasileios Trigonakis and Oskar van Rest (LDBC TUC 2019)
+* :zap: :tv: [Graph database applications with SQL/PGQ](https://download.oracle.com/otndocs/products/spatial/pdf/AnD2020/AD_Develop_Graph_Apps_SQL_PGQ.pdf) by Jan Michels, Andy Witkowski, Oracle (2020)
+* :zap: :tv: [Property Graph Extensions for the SQL Standard](http://wiki.ldbcouncil.org/pages/viewpage.action?pageId=106233859&preview=/106233859/111706119/ldbc_tuc_2019_sql-pgq.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
 * :tv: [Mapping Graph Queries to PostgreSQL](https://www.slideshare.net/szarnyasg/mapping-graph-queries-to-postgresql) by Gábor Szárnyas et al. (2018)
 
 ## Implementations
