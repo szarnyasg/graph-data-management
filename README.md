@@ -81,6 +81,7 @@ Legend:
 * [ingraph: incremental graph queries](http://github.com/ftsrg/ingraph) (`cypher-to-sql` branch, abandoned)
 * [AgensGraph](https://github.com/bitnine-oss/agensgraph)
 * [G-Core Spark](https://github.com/ldbc/gcore-spark) (G-Core on Spark + GraphX)
+* [Sparqling Kleene - Fast Property Paths in RDF-3X](https://event.cwi.nl/grades2013/14-gubichev.pdf)
 
 ## Languages
 
