@@ -1,6 +1,8 @@
 # Pointers for SQL/PGQ
 
-A bunch of pointers to navigate the literature and resources on graph query languages, particularly SQL/PGQ.
+SQL/PGQ is a proposed extension to the SQL standard. It allows creating property graph views over a relational database by defining vertex and edge tables, and querying these views with the ASCII art syntax popularized by [Cypehr](https://en.wikipedia.org/wiki/Cypher_(query_language)).
+
+This repository containers a pointers to navigate the literature on graph queries over relational database management systems and graph query languages.
 
 Legend:
 
@@ -109,3 +111,7 @@ Venues where interesting graph/SQL papers are most likely to appear:
 
 * [On Directly Mapping Relational Databases to Property Graphs](http://ceur-ws.org/Vol-2369/short06.pdf), AMW 2019
 * SAP HANA Graph: [blog post](https://blogs.sap.com/2020/04/27/create-graphs-on-sap-hana-cloud/), [tutorial](https://developers.sap.com/tutorials/hana-graph-overview-setup.html), using the [`CREATE GRAPH WORKSPACE`](https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/e6e1c7e2b9064b05b26572808f941ec4.html) language construct
+
+### RDF systems
+
+* [Sparqling Kleene - Fast Property Paths in RDF-3X](https://event.cwi.nl/grades2013/14-gubichev.pdf), GRADES 2013
