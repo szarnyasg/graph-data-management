@@ -1,6 +1,6 @@
 # Pointers for SQL/PGQ
 
-SQL/PGQ is a proposed extension to the SQL standard. It allows creating property graph views over a relational database by defining vertex and edge tables, and querying these views with the ASCII art syntax popularized by [Cypehr](https://en.wikipedia.org/wiki/Cypher_(query_language)).
+SQL/PGQ is a proposed extension to the SQL standard. It allows creating property graph views over a relational database by defining vertex and edge tables, and querying these views with the ASCII art syntax popularized by [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)).
 
 This repository containers a pointers to navigate the literature on graph queries over relational database management systems and graph query languages.
 
