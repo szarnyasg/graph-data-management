@@ -58,6 +58,7 @@ Legend:
 * [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/pdf/1910.09017.pdf) by Maciej Besta et al. (preprint, 2020)
 * [Foundations of Modern Graph Query Languages](https://dblp.org/rec/journals/csur/AnglesABHRV17.html?view=bibtex) by Renzo Angles et al. (ACM CSUR, 2017)
 * [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/job/gql-survey.pdf) by Peter Boncz (2020)
+  * :tv: [Talk](https://www.youtube.com/watch?v=oJmuRM9xpdU)
 * [The ubiquity of large graphs and surprising challenges of graph processing: Extended survey](https://link.springer.com/article/10.1007/s00778-019-00548-x) by Siddhartha Sahu et al. (VLDBJ 2020)
 
 ## Technical reports
