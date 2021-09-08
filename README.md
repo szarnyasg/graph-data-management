@@ -11,6 +11,10 @@ Legend:
 * :dizzy: worth skimming through
 * :tv: slides
 
+## Standardization
+
+* [Property Graph Standars, Process & Timing](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) by Keith Hare
+
 ## Dissertations and Master's thesis works
 
 * [Query, Analysis, and Benchmarking Techniques for Evolving Property Graphs of Software Systems](https://szarnyasg.github.io/phd/szarnyasg-phd-dissertation.pdf) by Gábor Szárnyas – PhD dissertation, BME (2019)
