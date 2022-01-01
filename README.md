@@ -1,8 +1,7 @@
-# Pointers for SQL/PGQ
+# Pointers for GQL and SQL/PGQ
 
-SQL/PGQ is a proposed extension to the SQL standard. It allows creating property graph views over a relational database by defining vertex and edge tables, and querying these views with the ASCII art syntax popularized by [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)).
-
-This repository containers a pointers to navigate the literature on graph queries over relational database management systems and graph query languages.
+This repository contains pointers to the upcoming GQL (Graph Query Language) standard and the SQL/PGQ extension of the SQL standard.
+Both allow querying property graphs with the ASCII art syntax popularized by [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)).
 
 Legend:
 
@@ -14,8 +13,32 @@ Legend:
 ## Standardization
 
 * [Property Graph Standars, Process & Timing](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) by Keith Hare
+* [The Upcoming GQL Standard](https://zenodo.org/record/4903293) (2021) by Stefan Plantikow
+* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
 
-## Dissertations and Master's thesis works
+## Websites, encyclopedia entries
+
+* [GQL Standard](https://www.gqlstandards.org/)
+* [The GQL Manifesto](https://gql.today/)
+* [GQL Wikipedia page](https://en.wikipedia.org/wiki/GQL_Graph_Query_Language)
+
+## Reference implementations
+
+* [GQL Parser](https://github.com/OlofMorra/GQL-parser) (Olof Morra, TU Eindhoven)
+  * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
+  * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
+
+## Posts, talks, podcasts
+
+* [SQL ... and now GQL](https://www.linkedin.com/pulse/sql-now-gql-alastair-green/) (2019) by Alastair Green
+* [GQL and openCypher: the road ahead](https://s3.amazonaws.com/artifacts.opencypher.org/website/ocim5/videos/oCIM5-day1-3+Alastair+Green+-+GQL+and+openCypher+(21min).mp4) (2019) by Alastair Green
+* [PostgreSQL, Oracle ... graph query language standards adoption begins](https://www.linkedin.com/pulse/postgresql-oracle-graph-query-language-standards-adoption-green/) (2020) by Alastair Green
+* [Alastair Green on GQL: the Graph Query Language – The Graph Show](https://www.youtube.com/watch?v=2sLTQQel4NM)
+  * [Query languages, Cypher, SQL/PGQ from 25:15 (~8 minutes)](https://youtu.be/2sLTQQel4NM?t=1515)
+
+## Literature on graph processing
+
+### Dissertations and Master's thesis works
 
 * [Query, Analysis, and Benchmarking Techniques for Evolving Property Graphs of Software Systems](https://szarnyasg.github.io/phd/szarnyasg-phd-dissertation.pdf) by Gábor Szárnyas – PhD dissertation, BME (2019)
   * :zap: Chapter 2 contains the background for graph databases
@@ -26,9 +49,9 @@ Legend:
 * [Enabling Graph Analysis Over Relational Databases](https://drum.lib.umd.edu/handle/1903/26047) by Konstantinos Xirogiannopoulos – PhD dissertation, UMD (2019)
 * [Advanced Techniques for the Implementation of Model Transformation Systems](https://repozitorium.omikk.bme.hu/handle/10890/754?locale-attribute=en) (model/graph transformations in relational databases) by Gergely Varró – PhD dissertation, BME (2008)
 
-## Papers
+### Papers
 
-### Graphs and SQL
+#### Graphs and SQL
 
 * :zap: [Graph Processing in RDBMSs](http://sites.computer.org/debull/A17sept/p6.pdf) by Kangfei Zhao, Jeffrey Xu Yu (IEEE Data Eng. Bull., 2017)
   * Longer version: [All-in-One: Graph Processing in RDBMSs Revisited](https://dl.acm.org/doi/10.1145/3035918.3035943) (SIGMOD 2017)
@@ -44,55 +67,41 @@ Legend:
 * [GraphWrangler: An Interactive Graph View on Relational Data](https://cs.uwaterloo.ca/~ssalihog/papers/anzum-graphwrangler.pdf), demo paper (SIGMOD 2019)
 * [Towards compiling graph queries in relational engines](https://dl.acm.org/doi/pdf/10.1145/3315507.3330200) (DBPL 2019)
 
-### Graphs and SPARQL
+#### Graphs and SPARQL
 
 * [G-SPARQL: a hybrid engine for querying large attributed graphs](https://dl.acm.org/doi/10.1145/2396761.2396806) by Sherif Sakr, Sameh Elnikety, Yuxiong He (CIKM 2012)
 
-### Semantics of graph query languages
+#### Semantics of graph query languages
 
 * openCypher
-  * [Cypher: An Evolving Query Language for Property Graphs](http://homepages.inf.ed.ac.uk/libkin/papers/sigmod18.pdf) by Nadime Francis et al. (SIGMOD 2018)
-    * [Cypher semantics](https://arxiv.org/pdf/1802.09984.pdf)
+  * [Cypher: An Evolving Query Language for Property Graphs](http://homepages.inf.ed.ac.uk/libkin/papers/sigmod18.pdf) by Nadime Francis et al. (SIGMOD 2018), [technical report on semantics](https://arxiv.org/pdf/1802.09984.pdf)
   * [Updating Graph Databases with Cypher](http://www.vldb.org/pvldb/vol12/p2242-green.pdf) by Alastair Green et al. (VLDB 2019)
 * G-CORE
   * [G-CORE: A Core for Future Graph Query Languages](https://arxiv.org/pdf/1712.01550.pdf) by Renzo Angles et al. (SIGMOD 2018)
 
-### Overview papers and talks
+#### Overview papers and posts
 
+* :zap: [Graph query languages](https://szarnyasg.github.io/posts/graph-query-languages/) by Gábor Szárnyas (2021), the top 10 graph query languages
 * [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/pdf/1910.09017.pdf) by Maciej Besta et al. (preprint, 2020)
 * [Foundations of Modern Graph Query Languages](https://arxiv.org/pdf/1610.06264.pdf) by Renzo Angles et al. (ACM CSUR, 2017)
-* [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/job/gql-survey.pdf) by Peter Boncz (2020)
-  * :tv: [Talk](https://www.youtube.com/watch?v=oJmuRM9xpdU)
+* [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/job/gql-survey.pdf) by Peter Boncz (2020), [talk](https://www.youtube.com/watch?v=oJmuRM9xpdU)
 * [The ubiquity of large graphs and surprising challenges of graph processing: Extended survey](https://link.springer.com/article/10.1007/s00778-019-00548-x) by Siddhartha Sahu et al. (VLDBJ 2020)
 
-## Technical reports
+### Talks
 
-* [Translating openCypher Queries to SQL](https://www.db.bme.hu/sql-for-graphs/c2s.pdf) by Márton Elekes et al. (2018)
-* [Formalisation of openCypher Queries in Relational Algebra (Extended Version)](https://repozitorium.omikk.bme.hu/handle/10890/5395) by Gábor Szárnyas, József Marton (2017)
-
-## Posts, encyclopedia entries
-
-* [PostgreSQL, Oracle ... graph query language standards adoption begins](https://www.linkedin.com/pulse/postgresql-oracle-graph-query-language-standards-adoption-green/) by Alastair Green (2020)
-* [GQL Wikipedia page](https://en.wikipedia.org/wiki/GQL_Graph_Query_Language)
-## Talks
-
-* :zap: :tv: [The Linked Data Benchmark Council](https://docs.google.com/presentation/d/1oXKh94R4myUV5RvgeXn7OzhbveAn9Dg1Q4LlOkFrSko/) by Various Artists (2020)
+* :zap: :tv: [The Linked Data Benchmark Council](https://docs.google.com/presentation/d/1oXKh94R4myUV5RvgeXn7OzhbveAn9Dg1Q4LlOkFrSko/) by Gábor Szárnyas and others (2020)
 * :zap: :tv: [Graph database applications with SQL/PGQ](https://download.oracle.com/otndocs/products/spatial/pdf/AnD2020/AD_Develop_Graph_Apps_SQL_PGQ.pdf) by Jan Michels, Andy Witkowski, Oracle (2020)
 * :zap: :tv: [Property Graph Extensions for the SQL Standard](https://ldbcouncil.org/event/twelfth-tuc-meeting/attachments/106233859/111706119.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
 * :tv: [Mapping Graph Queries to PostgreSQL](https://www.slideshare.net/szarnyasg/mapping-graph-queries-to-postgresql) by Gábor Szárnyas et al. (2018)
 
-## Implementations
+## Graph query engine implementations
 
 * [Morpheus: Cypher for Apache Spark](https://github.com/opencypher/morpheus) (abandoned) :tv: [slides](https://www.slideshare.net/databricks/neo4j-morpheus-interweaving-documents-tables-and-and-graph-data-in-spark-with-alastair-green-and-mats-rydberg)
 * [CYpher TO Sql Mapper (Cytosm)](https://github.com/cytosm/cytosm) (abandoned)
 * [ingraph: incremental graph queries](http://github.com/ftsrg/ingraph) (`cypher-to-sql` branch, abandoned)
-* [AgensGraph](https://github.com/bitnine-oss/agensgraph)
-* [G-Core Spark](https://github.com/ldbc/gcore-spark) (G-Core on Spark + GraphX)
+* [AgensGraph](https://github.com/bitnine-oss/agensgraph) )
+* [G-CORE Spark](https://github.com/ldbc/gcore-spark) (G-CORE on Spark + GraphX)
 * [Sparqling Kleene - Fast Property Paths in RDF-3X](https://event.cwi.nl/grades2013/14-gubichev.pdf)
-
-## Languages
-
-* :zap: [Graph query languages](https://szarnyasg.github.io/posts/graph-query-languages/) by Gábor Szárnyas (2021), the top 10 graph query languages
 
 ## Venues
 
@@ -100,11 +109,6 @@ Venues where interesting graph/SQL papers are most likely to appear:
 * Major database conferences: SIGMOD, VLDB, ICDE, and EDBT.
 * [Workshops](https://www.google.com/maps/d/viewer?mid=19_fi4fV-3-PZkNWCCcmhU86ct2EZXbgo&ll=3.021282693104767%2C0&z=2): GRADES/GRADES-NDA (SIGMOD workshop), GraphQ (EDBT workshop, discountinued), GDM (ICDE workshop, discontinued)
 * Industry events: LDBC Technical User Community (TUC) meetings
-
-## Podcast
-
-* [Alastair Green on GQL: the Graph Query Language – The Graph Show](https://www.youtube.com/watch?v=2sLTQQel4NM)
-  * [Query languages, Cypher, SQL/PGQ from 25:15 (~8 minutes)](https://youtu.be/2sLTQQel4NM?t=1515)
 
 ## Misc papers and talks
 
