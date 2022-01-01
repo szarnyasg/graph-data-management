@@ -22,9 +22,10 @@ Legend:
 * [The GQL Manifesto](https://gql.today/)
 * [GQL Wikipedia page](https://en.wikipedia.org/wiki/GQL_Graph_Query_Language)
 
-## Reference implementations
+## Reference implementations and semantics
 
-* [GQL Parser](https://github.com/OlofMorra/GQL-parser) (Olof Morra, TU Eindhoven)
+* [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (2021) by Alin Deutsch et al.
+* [GQL Parser](https://github.com/OlofMorra/GQL-parser) (2021) by Olof Morra (TU Eindhoven)
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
   * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
 
