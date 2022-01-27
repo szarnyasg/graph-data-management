@@ -52,6 +52,10 @@ Legend:
 
 ### Papers
 
+#### Graphs as relational data
+
+* [LIquid: The soul of a new graph database, Part 2](https://engineering.linkedin.com/blog/2020/liquid--the-soul-of-a-new-graph-database--part-2): this part of LinkedIn Engineering's two-part series on the LIquid graph database discusses the representation of graphs as relational data and the limitations of naïve approaches ([part 1](https://engineering.linkedin.com/blog/2020/liquid-the-soul-of-a-new-graph-database-part-1) presents an object-oriented representation).
+
 #### Graphs and SQL
 
 * :zap: [Graph Processing in RDBMSs](http://sites.computer.org/debull/A17sept/p6.pdf) by Kangfei Zhao, Jeffrey Xu Yu (IEEE Data Eng. Bull., 2017)
