@@ -99,6 +99,10 @@ Legend:
 * :zap: :tv: [Property Graph Extensions for the SQL Standard](https://ldbcouncil.org/event/twelfth-tuc-meeting/attachments/106233859/111706119.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
 * :tv: [Mapping Graph Queries to PostgreSQL](https://www.slideshare.net/szarnyasg/mapping-graph-queries-to-postgresql) by Gábor Szárnyas et al. (2018)
 
+### Related
+
+* :zap: :tv: [PGQL Introduction and Deep Dive](https://www.oracle.com/a/tech/docs/asktom-pgql-introduction-deep-dive.pdf), an overview of PGQL by Melli Annamalai and Ryota Yamanaka, Oracle (2020)
+
 ## Graph query engine implementations
 
 * [Morpheus: Cypher for Apache Spark](https://github.com/opencypher/morpheus) (abandoned) :tv: [slides](https://www.slideshare.net/databricks/neo4j-morpheus-interweaving-documents-tables-and-and-graph-data-in-spark-with-alastair-green-and-mats-rydberg)
