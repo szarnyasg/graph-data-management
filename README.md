@@ -24,7 +24,8 @@ Legend:
 
 ## Reference implementations and semantics
 
-* :zap: [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021) by Alin Deutsch et al.
+* :zap: [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021; [SIGMOD 2022](https://dl.acm.org/doi/abs/10.1145/3514221.3526057)) by Alin Deutsch et al.
+  * Talk by Leonid Libkin (ENS Paris): [slides](attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [video](https://youtu.be/OvGsa0qLANE)
 * [GQL Parser](https://github.com/OlofMorra/GQL-parser) (2021) by Olof Morra (TU Eindhoven)
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
   * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
