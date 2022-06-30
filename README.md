@@ -12,9 +12,14 @@ Legend:
 
 ## Standardization
 
-* [Property Graph Standars, Process & Timing](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) by Keith Hare
+* Property Graph Standars, Process & Timing] by Keith Hare
+  * [14th LDBC TUC (2021)](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
+  * [15th LDBC TUC (2022)](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=xFVD3LWnKlc))
+* [Pattern matching in GQL and SQL/PGQ](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) (2022) by Leonid Libkin
 * [The Upcoming GQL Standard](https://zenodo.org/record/4903293) (2021) by Stefan Plantikow
-* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
+* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
+* [An overview of GQL](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=tncf2FgyIyo)) (2022) by Petra Selmer
+* [GQL 2.0: A technical manifesto](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=upIvpYy8C2g)) (2022) by Alastair Green 
 
 ## Websites, encyclopedia entries
 
