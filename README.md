@@ -30,7 +30,7 @@ Legend:
 ## Reference implementations and semantics
 
 * :zap: [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021; [SIGMOD 2022](https://dl.acm.org/doi/abs/10.1145/3514221.3526057)) by Alin Deutsch et al.
-  * talk by Leonid Libkin (ENS Paris): [slides](attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [video](https://youtu.be/OvGsa0qLANE)
+  * talk by Leonid Libkin (ENS Paris): [slides](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [:movie_camera: recording](https://youtu.be/OvGsa0qLANE)
 * [GQL Parser](https://github.com/OlofMorra/GQL-parser) (2021) by Olof Morra (TU Eindhoven)
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
   * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
@@ -75,7 +75,7 @@ Legend:
 * [Cytosm: Declarative Property Graph Queries Without Data Migration](https://event.cwi.nl/grades/2017/04-Steer.pdf) by Benjamin A. Steer et al. (GRADES 2017)
 * [PGQL: a property graph query language](https://event.cwi.nl/grades/2016/07-VanRest.pdf) by Oskar van Rest et al. (GRADES 2016)
 * [Extending SQL for Computing Shortest Paths](https://ir.cwi.nl/pub/27563/27563.pdf) by Dean De Leo and Peter Boncz (GRADES 2017) :tv: [[talk at the LDBC TUC 2017]](https://ldbcouncil.org/event/ninth-tuc-meeting/attachments/59277315/75628546.pdf)
-* [GraphWrangler: An Interactive Graph View on Relational Data](https://cs.uwaterloo.ca/~ssalihog/papers/anzum-graphwrangler.pdf), demo paper (SIGMOD 2019)
+* [GraphWrangler: An Interactive Graph View on Relational Data](https://dl.acm.org/doi/abs/10.1145/3299869.3320232), demo paper (SIGMOD 2019)
 * [Towards compiling graph queries in relational engines](https://dl.acm.org/doi/pdf/10.1145/3315507.3330200) (DBPL 2019)
 
 #### Graphs and SPARQL
