@@ -12,9 +12,10 @@ Legend:
 
 ## Standardization
 
-* Property Graph Standars, Process & Timing] by Keith Hare
+* Property Graph Standars, Process & Timing by Keith Hare
   * [14th LDBC TUC (2021)](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
   * [15th LDBC TUC (2022)](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=xFVD3LWnKlc))
+  * [16th LDBC TUC (2023)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=LQYkal_0j6E))
 * [Pattern matching in GQL and SQL/PGQ](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) (2022) by Leonid Libkin
 * [The Upcoming GQL Standard](https://zenodo.org/record/4903293) (2021) by Stefan Plantikow
 * [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
