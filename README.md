@@ -65,6 +65,8 @@ Legend:
 
 #### Graphs and SQL
 
+* [DuckPGQ: Bringing SQL/PGQ to DuckDB](https://www.vldb.org/pvldb/vol16/p4034-wolde.pdf) by Daniel ten Wolde, Gábor Szárnyas, Peter Boncz (VLDB 2023 demo)
+* :zap: [DuckPGQ: Efficient Property Graph Queries in an analytical RDBMS](https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf) ([slides](https://www.cidrdb.org/cidr2023/slides/p66-wolde-slides.pdf), [recording](https://www.youtube.com/watch?v=pVklntbGiNo)) by Daniel ten Wolde, Tavneet Singh, Gábor Szárnyas, Peter Boncz (CIDR 2023)
 * :zap: [Graph Processing in RDBMSs](http://sites.computer.org/debull/A17sept/p6.pdf) by Kangfei Zhao, Jeffrey Xu Yu (IEEE Data Eng. Bull., 2017)
   * Longer version: [All-in-One: Graph Processing in RDBMSs Revisited](https://dl.acm.org/doi/10.1145/3035918.3035943) (SIGMOD 2017)
 * :zap: [An Algebra and Equivalences to Transform Graph Patterns in Neo4j](http://ceur-ws.org/Vol-1558/paper24.pdf) by Jürgen Hölsch, Michael Grossniklaus (GraphQ 2016)
