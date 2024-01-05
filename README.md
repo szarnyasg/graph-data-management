@@ -123,13 +123,6 @@ Legend:
 * [G-CORE Spark](https://github.com/ldbc/gcore-spark) (G-CORE on Spark + GraphX, abandoned)
 * [Sparqling Kleene - Fast Property Paths in RDF-3X](https://event.cwi.nl/grades2013/14-gubichev.pdf)
 
-## Venues
-
-Venues where interesting graph/SQL papers are most likely to appear:
-* Major database conferences: SIGMOD, VLDB, ICDE, and EDBT.
-* [Workshops](https://www.google.com/maps/d/viewer?mid=19_fi4fV-3-PZkNWCCcmhU86ct2EZXbgo&ll=3.021282693104767%2C0&z=2): GRADES/GRADES-NDA (SIGMOD workshop), GraphQ (EDBT workshop, discountinued), GDM (ICDE workshop, discontinued)
-* Industry events: LDBC Technical User Community (TUC) meetings
-
 ## Misc papers and talks
 
 ### BFS
