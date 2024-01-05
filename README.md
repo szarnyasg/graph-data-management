@@ -13,14 +13,14 @@ Legend:
 ## Standardization
 
 * Property Graph Standars, Process & Timing by Keith Hare
-  * [14th LDBC TUC (2021)](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
-  * [15th LDBC TUC (2022)](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=xFVD3LWnKlc))
+  * [14th LDBC TUC (2021)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
+  * [15th LDBC TUC (2022)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=xFVD3LWnKlc))
   * [16th LDBC TUC (2023)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=LQYkal_0j6E))
-* [Pattern matching in GQL and SQL/PGQ](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) (2022) by Leonid Libkin
+* [Pattern matching in GQL and SQL/PGQ](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) (2022) by Leonid Libkin
 * [The Upcoming GQL Standard](https://zenodo.org/record/4903293) (2021) by Stefan Plantikow
-* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
+* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
 * [An overview of GQL](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=tncf2FgyIyo)) (2022) by Petra Selmer
-* [GQL 2.0: A technical manifesto](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=upIvpYy8C2g)) (2022) by Alastair Green 
+* [GQL 2.0: A technical manifesto](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=upIvpYy8C2g)) (2022) by Alastair Green 
 
 ## Websites, encyclopedia entries
 
@@ -31,7 +31,7 @@ Legend:
 ## Reference implementations and semantics
 
 * :zap: [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021; [paper at SIGMOD 2022](https://dl.acm.org/doi/abs/10.1145/3514221.3526057)) by Alin Deutsch et al.
-  * talk by Leonid Libkin (ENS Paris): [slides](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [:movie_camera: recording](https://youtu.be/OvGsa0qLANE)
+  * talk by Leonid Libkin (ENS Paris): [slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [:movie_camera: recording](https://youtu.be/OvGsa0qLANE)
 * [GQL Parser](https://github.com/OlofMorra/GQL-parser) (2021) by Olof Morra (TU Eindhoven)
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
   * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
@@ -52,7 +52,7 @@ Legend:
   * :zap: Chapter 2 contains the background for graph databases
   * :star: Chapter 8 shows a mapping from openCypher queries to an extended relational algebra (it's also available as a concise [preprint](https://arxiv.org/pdf/1806.07344.pdf))
   * :star: Section 10.5 summarizes the state of research (as of 2018) on mapping from graph queries to relational databases (see Table 10.2) 
-* :dizzy: [Analysis and Comparison of Common Graph Query Languages](https://repositum.tuwien.at/bitstream/20.500.12708/16615/2/Analysis%20and%20Comparison%20of%20Common%20Graph%20Query%20Languages.pdf) by Martin Klampfer, TU Vienna (2020)
+* :dizzy: [Analysis and Comparison of Common Graph Query Languages](https://web.archive.org/web/20210119211651id_/https://repositum.tuwien.at/bitstream/20.500.12708/16615/2/Analysis%20and%20Comparison%20of%20Common%20Graph%20Query%20Languages.pdf) by Martin Klampfer, TU Vienna (2020)
 * :dizzy: [A G-CORE Graph Query Language Interpreter](https://homepages.cwi.nl/~boncz/msc/2018-GeorgianaCiocirdel.pdf) by Georgiana Ciocirdel, CWI, VU Amsterdam (2018)
 * [Enabling Graph Analysis Over Relational Databases](https://drum.lib.umd.edu/handle/1903/26047) by Konstantinos Xirogiannopoulos – PhD dissertation, UMD (2019)
 * [Advanced Techniques for the Implementation of Model Transformation Systems](https://repozitorium.omikk.bme.hu/handle/10890/754?locale-attribute=en) (model/graph transformations in relational databases) by Gergely Varró – PhD dissertation, BME (2008)
