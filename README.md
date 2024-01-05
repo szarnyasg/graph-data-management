@@ -19,7 +19,7 @@ Legend:
 * [Pattern matching in GQL and SQL/PGQ](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) (2022) by Leonid Libkin
 * [The Upcoming GQL Standard](https://zenodo.org/record/4903293) (2021) by Stefan Plantikow
 * [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
-* [An overview of GQL](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=tncf2FgyIyo)) (2022) by Petra Selmer
+* [An overview of GQL](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=tncf2FgyIyo)) (2022) by Petra Selmer
 * [GQL 2.0: A technical manifesto](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=upIvpYy8C2g)) (2022) by Alastair Green 
 
 ## Websites, encyclopedia entries
@@ -77,7 +77,7 @@ Legend:
 * [G-SQL: Fast Query Processing via Graph Exploration](http://www.vldb.org/pvldb/vol9/p900-ma.pdf) by Hongbin Ma et al. (VLDB 2016)
 * [Cytosm: Declarative Property Graph Queries Without Data Migration](https://event.cwi.nl/grades/2017/04-Steer.pdf) by Benjamin A. Steer et al. (GRADES 2017)
 * [PGQL: a property graph query language](https://event.cwi.nl/grades/2016/07-VanRest.pdf) by Oskar van Rest et al. (GRADES 2016)
-* [Extending SQL for Computing Shortest Paths](https://ir.cwi.nl/pub/27563/27563.pdf) by Dean De Leo and Peter Boncz (GRADES 2017) :tv: [[talk at the LDBC TUC 2017]](https://ldbcouncil.org/event/ninth-tuc-meeting/attachments/59277315/75628546.pdf)
+* [Extending SQL for Computing Shortest Paths](https://ir.cwi.nl/pub/27563/27563.pdf) by Dean De Leo and Peter Boncz (GRADES 2017) :tv: [talk at the LDBC TUC 2017](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/ninth-tuc-meeting/attachments/59277315/75628546.pdf)
 * [GraphWrangler: An Interactive Graph View on Relational Data](https://dl.acm.org/doi/abs/10.1145/3299869.3320232), demo paper (SIGMOD 2019)
 * [Towards compiling graph queries in relational engines](https://dl.acm.org/doi/pdf/10.1145/3315507.3330200) (DBPL 2019)
 
@@ -98,14 +98,14 @@ Legend:
 * :zap: [Graph query languages](https://szarnyasg.github.io/posts/graph-query-languages/) by Gábor Szárnyas (2021), the top 10 graph query languages
 * [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/pdf/1910.09017.pdf) by Maciej Besta et al. (preprint, 2020)
 * [Foundations of Modern Graph Query Languages](https://arxiv.org/pdf/1610.06264.pdf) by Renzo Angles et al. (ACM CSUR, 2017)
-* [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/job/gql-survey.pdf) by Peter Boncz (2020), [talk](https://www.youtube.com/watch?v=oJmuRM9xpdU)
+* [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/gql-survey.pdf) by Peter Boncz (2020), [talk](https://www.youtube.com/watch?v=oJmuRM9xpdU)
 * [The ubiquity of large graphs and surprising challenges of graph processing: Extended survey](https://link.springer.com/article/10.1007/s00778-019-00548-x) by Siddhartha Sahu et al. (VLDBJ 2020)
 
 ### Talks
 
 * :zap: :tv: [The Linked Data Benchmark Council](https://docs.google.com/presentation/d/1oXKh94R4myUV5RvgeXn7OzhbveAn9Dg1Q4LlOkFrSko/) by Gábor Szárnyas and others (2020)
 * :zap: :tv: [Graph database applications with SQL/PGQ](https://download.oracle.com/otndocs/products/spatial/pdf/AnD2020/AD_Develop_Graph_Apps_SQL_PGQ.pdf) by Jan Michels, Andy Witkowski, Oracle (2020)
-* :zap: :tv: [Property Graph Extensions for the SQL Standard](https://ldbcouncil.org/event/twelfth-tuc-meeting/attachments/106233859/111706119.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
+* :zap: :tv: [Property Graph Extensions for the SQL Standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/twelfth-tuc-meeting/attachments/106233859/111706119.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
 * :tv: [Mapping Graph Queries to PostgreSQL](https://www.slideshare.net/szarnyasg/mapping-graph-queries-to-postgresql) by Gábor Szárnyas et al. (2018)
 
 ### Related
