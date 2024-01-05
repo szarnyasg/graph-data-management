@@ -1,7 +1,8 @@
 # Pointers for GQL and SQL/PGQ
 
-This repository contains pointers to the upcoming GQL (Graph Query Language) standard and the SQL/PGQ extension of the SQL standard.
-Both allow querying property graphs using the visual graph syntax (a.k.a. ASCII art syntax) popularized by [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)).
+This repository contains pointers to the upcoming GQL (Graph Query Language) standard and the SQL/PGQ extension of the SQL standard. Both allow querying property graphs using the visual graph syntax (a.k.a. ASCII art syntax) popularized by [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)).
+
+The content of this repository is deployed to <https://szarnyasg.github.io/gql-sql-pgq-pointers>.
 
 Legend:
 
