@@ -13,7 +13,7 @@ Legend:
 
 ## Standardization
 
-* Property Graph Standars, Process & Timing by Keith Hare
+* Property Graph Standards, Process & Timing by Keith Hare
   * [14th LDBC TUC (2021)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
   * [15th LDBC TUC (2022)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=xFVD3LWnKlc))
   * [16th LDBC TUC (2023)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=LQYkal_0j6E))
