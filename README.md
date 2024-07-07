@@ -7,21 +7,21 @@ The content of this repository is deployed to <https://szarnyasg.github.io/gql-s
 Legend:
 
 * ⚡️ best for getting started
-* :star: probably worth a read
-* :dizzy: worth skimming through
-* :tv: slides
+* ⭐️ probably worth a read
+* 💫 worth skimming through
+* 📺 slides
 
 ## Standardization
 
 * Property Graph Standards, Process & Timing by Keith Hare
-  * [14th LDBC TUC (2021)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
-  * [15th LDBC TUC (2022)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=xFVD3LWnKlc))
-  * [16th LDBC TUC (2023)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=LQYkal_0j6E))
-* [Pattern matching in GQL and SQL/PGQ](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) (2022) by Leonid Libkin
+  * [14th LDBC TUC (2021)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([🎥 recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
+  * [15th LDBC TUC (2022)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) ([🎥 recording](https://www.youtube.com/watch?v=xFVD3LWnKlc))
+  * [16th LDBC TUC (2023)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) ([🎥 recording](https://www.youtube.com/watch?v=LQYkal_0j6E))
+* [Pattern matching in GQL and SQL/PGQ](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([🎥 recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) (2022) by Leonid Libkin
 * [The Upcoming GQL Standard](https://zenodo.org/record/4903293) (2021) by Stefan Plantikow
-* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
-* [An overview of GQL](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=tncf2FgyIyo)) (2022) by Petra Selmer
-* [GQL 2.0: A technical manifesto](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) ([:movie_camera: recording](https://www.youtube.com/watch?v=upIvpYy8C2g)) (2022) by Alastair Green 
+* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([🎥 recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
+* [An overview of GQL](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) ([🎥 recording](https://www.youtube.com/watch?v=tncf2FgyIyo)) (2022) by Petra Selmer
+* [GQL 2.0: A technical manifesto](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) ([🎥 recording](https://www.youtube.com/watch?v=upIvpYy8C2g)) (2022) by Alastair Green
 
 ## Websites, encyclopedia entries
 
@@ -31,8 +31,8 @@ Legend:
 
 ## Reference implementations and semantics
 
-* :zap: [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021; [paper at SIGMOD 2022](https://dl.acm.org/doi/abs/10.1145/3514221.3526057)) by Alin Deutsch et al.
-  * talk by Leonid Libkin (ENS Paris): [slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [:movie_camera: recording](https://youtu.be/OvGsa0qLANE)
+* ⚡️ [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021; [paper at SIGMOD 2022](https://dl.acm.org/doi/abs/10.1145/3514221.3526057)) by Alin Deutsch et al.
+  * talk by Leonid Libkin (ENS Paris): [slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [🎥 recording](https://youtu.be/OvGsa0qLANE)
 * [GQL Parser](https://github.com/OlofMorra/GQL-parser) (2021) by Olof Morra (TU Eindhoven)
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
   * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
@@ -50,11 +50,11 @@ Legend:
 ### Dissertations and Master's thesis works
 
 * [Query, Analysis, and Benchmarking Techniques for Evolving Property Graphs of Software Systems](https://szarnyasg.github.io/phd/szarnyasg-phd-dissertation.pdf) by Gábor Szárnyas – PhD dissertation, BME (2019)
-  * :zap: Chapter 2 contains the background for graph databases
-  * :star: Chapter 8 shows a mapping from openCypher queries to an extended relational algebra (it's also available as a concise [preprint](https://arxiv.org/pdf/1806.07344.pdf))
-  * :star: Section 10.5 summarizes the state of research (as of 2018) on mapping from graph queries to relational databases (see Table 10.2) 
-* :dizzy: [Analysis and Comparison of Common Graph Query Languages](https://web.archive.org/web/20210119211651id_/https://repositum.tuwien.at/bitstream/20.500.12708/16615/2/Analysis%20and%20Comparison%20of%20Common%20Graph%20Query%20Languages.pdf) by Martin Klampfer, TU Vienna (2020)
-* :dizzy: [A G-CORE Graph Query Language Interpreter](https://homepages.cwi.nl/~boncz/msc/2018-GeorgianaCiocirdel.pdf) by Georgiana Ciocirdel, CWI, VU Amsterdam (2018)
+  * ⚡️ Chapter 2 contains the background for graph databases
+  * ⭐️ Chapter 8 shows a mapping from openCypher queries to an extended relational algebra (it's also available as a concise [preprint](https://arxiv.org/pdf/1806.07344.pdf))
+  * ⭐️ Section 10.5 summarizes the state of research (as of 2018) on mapping from graph queries to relational databases (see Table 10.2)
+* 💫 [Analysis and Comparison of Common Graph Query Languages](https://web.archive.org/web/20210119211651id_/https://repositum.tuwien.at/bitstream/20.500.12708/16615/2/Analysis%20and%20Comparison%20of%20Common%20Graph%20Query%20Languages.pdf) by Martin Klampfer, TU Vienna (2020)
+* 💫 [A G-CORE Graph Query Language Interpreter](https://homepages.cwi.nl/~boncz/msc/2018-GeorgianaCiocirdel.pdf) by Georgiana Ciocirdel, CWI, VU Amsterdam (2018)
 * [Enabling Graph Analysis Over Relational Databases](https://drum.lib.umd.edu/handle/1903/26047) by Konstantinos Xirogiannopoulos – PhD dissertation, UMD (2019)
 * [Advanced Techniques for the Implementation of Model Transformation Systems](https://repozitorium.omikk.bme.hu/handle/10890/754?locale-attribute=en) (model/graph transformations in relational databases) by Gergely Varró – PhD dissertation, BME (2008)
 
@@ -67,18 +67,18 @@ Legend:
 #### Graphs and SQL
 
 * [DuckPGQ: Bringing SQL/PGQ to DuckDB](https://www.vldb.org/pvldb/vol16/p4034-wolde.pdf) by Daniel ten Wolde, Gábor Szárnyas, Peter Boncz (VLDB 2023 demo)
-* :zap: [DuckPGQ: Efficient Property Graph Queries in an analytical RDBMS](https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf) ([slides](https://www.cidrdb.org/cidr2023/slides/p66-wolde-slides.pdf), [recording](https://www.youtube.com/watch?v=pVklntbGiNo)) by Daniel ten Wolde, Tavneet Singh, Gábor Szárnyas, Peter Boncz (CIDR 2023)
-* :zap: [Graph Processing in RDBMSs](http://sites.computer.org/debull/A17sept/p6.pdf) by Kangfei Zhao, Jeffrey Xu Yu (IEEE Data Eng. Bull., 2017)
+* ⚡️ [DuckPGQ: Efficient Property Graph Queries in an analytical RDBMS](https://www.cidrdb.org/cidr2023/papers/p66-wolde.pdf) ([slides](https://www.cidrdb.org/cidr2023/slides/p66-wolde-slides.pdf), [recording](https://www.youtube.com/watch?v=pVklntbGiNo)) by Daniel ten Wolde, Tavneet Singh, Gábor Szárnyas, Peter Boncz (CIDR 2023)
+* ⚡️ [Graph Processing in RDBMSs](http://sites.computer.org/debull/A17sept/p6.pdf) by Kangfei Zhao, Jeffrey Xu Yu (IEEE Data Eng. Bull., 2017)
   * Longer version: [All-in-One: Graph Processing in RDBMSs Revisited](https://dl.acm.org/doi/10.1145/3035918.3035943) (SIGMOD 2017)
-* :zap: [An Algebra and Equivalences to Transform Graph Patterns in Neo4j](http://ceur-ws.org/Vol-1558/paper24.pdf) by Jürgen Hölsch, Michael Grossniklaus (GraphQ 2016)
-* :star: [GraphGen: Adaptive Graph Processing using Relational Databases](https://event.cwi.nl/grades/2017/09-Xirogiannopoulos.pdf) by [Konstantinos Xirogiannopoulos](http://www.cs.umd.edu/~kostasx/)
-* :star: [Extending In-Memory Relational Database Engines with Native Graph Support](https://openproceedings.org/2018/conf/edbt/paper-17.pdf) by Mohamed S. Hassan, Tatiana Kuznetsova, Hyun Chai Jeong, Walid G. Aref, Mohammad Sadoghi (EDBT 2018) about [GRFusion](https://dl.acm.org/doi/10.1145/3183713.3193541) (SIGMOD demo), [code](https://github.com/purduedb/GRFusion)
-* :dizzy: [Graph Pattern Matching – Do We Have to Reinvent the Wheel?](https://event.cwi.nl/grades2014/08-gubichev.pdf) by Andrey Gubichev, Manuel Then (GRADES 2014) :tv: [slides](https://event.cwi.nl/grades2014/08-gubichev-slides.pdf)
+* ⚡️ [An Algebra and Equivalences to Transform Graph Patterns in Neo4j](http://ceur-ws.org/Vol-1558/paper24.pdf) by Jürgen Hölsch, Michael Grossniklaus (GraphQ 2016)
+* ⭐️ [GraphGen: Adaptive Graph Processing using Relational Databases](https://event.cwi.nl/grades/2017/09-Xirogiannopoulos.pdf) by [Konstantinos Xirogiannopoulos](http://www.cs.umd.edu/~kostasx/)
+* ⭐️ [Extending In-Memory Relational Database Engines with Native Graph Support](https://openproceedings.org/2018/conf/edbt/paper-17.pdf) by Mohamed S. Hassan, Tatiana Kuznetsova, Hyun Chai Jeong, Walid G. Aref, Mohammad Sadoghi (EDBT 2018) about [GRFusion](https://dl.acm.org/doi/10.1145/3183713.3193541) (SIGMOD demo), [code](https://github.com/purduedb/GRFusion)
+* 💫 [Graph Pattern Matching – Do We Have to Reinvent the Wheel?](https://event.cwi.nl/grades2014/08-gubichev.pdf) by Andrey Gubichev, Manuel Then (GRADES 2014) 📺 [slides](https://event.cwi.nl/grades2014/08-gubichev-slides.pdf)
 * [Join Processing for Graph Patterns: An Old Dog with New Tricks](https://arxiv.org/pdf/1503.04169.pdf) by Dung T. Nguyen, Molham Aref et al. (GRADES 2015)
 * [G-SQL: Fast Query Processing via Graph Exploration](http://www.vldb.org/pvldb/vol9/p900-ma.pdf) by Hongbin Ma et al. (VLDB 2016)
 * [Cytosm: Declarative Property Graph Queries Without Data Migration](https://event.cwi.nl/grades/2017/04-Steer.pdf) by Benjamin A. Steer et al. (GRADES 2017)
 * [PGQL: a property graph query language](https://event.cwi.nl/grades/2016/07-VanRest.pdf) by Oskar van Rest et al. (GRADES 2016)
-* [Extending SQL for Computing Shortest Paths](https://ir.cwi.nl/pub/27563/27563.pdf) by Dean De Leo and Peter Boncz (GRADES 2017) :tv: [talk at the LDBC TUC 2017](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/ninth-tuc-meeting/attachments/59277315/75628546.pdf)
+* [Extending SQL for Computing Shortest Paths](https://ir.cwi.nl/pub/27563/27563.pdf) by Dean De Leo and Peter Boncz (GRADES 2017) 📺 [talk at the LDBC TUC 2017](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/ninth-tuc-meeting/attachments/59277315/75628546.pdf)
 * [GraphWrangler: An Interactive Graph View on Relational Data](https://dl.acm.org/doi/abs/10.1145/3299869.3320232), demo paper (SIGMOD 2019)
 * [Towards compiling graph queries in relational engines](https://dl.acm.org/doi/pdf/10.1145/3315507.3330200) (DBPL 2019)
 
@@ -96,7 +96,7 @@ Legend:
 
 #### Overview papers and posts
 
-* :zap: [Graph query languages](https://szarnyasg.github.io/posts/graph-query-languages/) by Gábor Szárnyas (2021), the top 10 graph query languages
+* ⚡️ [Graph query languages](https://szarnyasg.github.io/posts/graph-query-languages/) by Gábor Szárnyas (2021), the top 10 graph query languages
 * [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/pdf/1910.09017.pdf) by Maciej Besta et al. (preprint, 2020)
 * [Foundations of Modern Graph Query Languages](https://arxiv.org/pdf/1610.06264.pdf) by Renzo Angles et al. (ACM CSUR, 2017)
 * [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/gql-survey.pdf) by Peter Boncz (2020), [talk](https://www.youtube.com/watch?v=oJmuRM9xpdU)
@@ -104,18 +104,18 @@ Legend:
 
 ### Talks
 
-* :zap: :tv: [The Linked Data Benchmark Council](https://docs.google.com/presentation/d/1oXKh94R4myUV5RvgeXn7OzhbveAn9Dg1Q4LlOkFrSko/) by Gábor Szárnyas and others (2020)
-* :zap: :tv: [Graph database applications with SQL/PGQ](https://download.oracle.com/otndocs/products/spatial/pdf/AnD2020/AD_Develop_Graph_Apps_SQL_PGQ.pdf) by Jan Michels, Andy Witkowski, Oracle (2020)
-* :zap: :tv: [Property Graph Extensions for the SQL Standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/twelfth-tuc-meeting/attachments/106233859/111706119.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
-* :tv: [Mapping Graph Queries to PostgreSQL](https://www.slideshare.net/szarnyasg/mapping-graph-queries-to-postgresql) by Gábor Szárnyas et al. (2018)
+* ⚡️ 📺 [The Linked Data Benchmark Council](https://docs.google.com/presentation/d/1oXKh94R4myUV5RvgeXn7OzhbveAn9Dg1Q4LlOkFrSko/) by Gábor Szárnyas and others (2020)
+* ⚡️ 📺 [Graph database applications with SQL/PGQ](https://download.oracle.com/otndocs/products/spatial/pdf/AnD2020/AD_Develop_Graph_Apps_SQL_PGQ.pdf) by Jan Michels, Andy Witkowski, Oracle (2020)
+* ⚡️ 📺 [Property Graph Extensions for the SQL Standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/twelfth-tuc-meeting/attachments/106233859/111706119.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
+* 📺 [Mapping Graph Queries to PostgreSQL](https://www.slideshare.net/szarnyasg/mapping-graph-queries-to-postgresql) by Gábor Szárnyas et al. (2018)
 
 ### Related
 
-* :zap: :tv: [PGQL Introduction and Deep Dive](https://www.oracle.com/a/tech/docs/asktom-pgql-introduction-deep-dive.pdf), an overview of PGQL by Melli Annamalai and Ryota Yamanaka, Oracle (2020)
+* ⚡️ 📺 [PGQL Introduction and Deep Dive](https://www.oracle.com/a/tech/docs/asktom-pgql-introduction-deep-dive.pdf), an overview of PGQL by Melli Annamalai and Ryota Yamanaka, Oracle (2020)
 
 ## Graph query engine implementations
 
-* [Morpheus: Cypher for Apache Spark](https://github.com/opencypher/morpheus) (abandoned) :tv: [slides](https://www.slideshare.net/databricks/neo4j-morpheus-interweaving-documents-tables-and-and-graph-data-in-spark-with-alastair-green-and-mats-rydberg)
+* [Morpheus: Cypher for Apache Spark](https://github.com/opencypher/morpheus) (abandoned) 📺 [slides](https://www.slideshare.net/databricks/neo4j-morpheus-interweaving-documents-tables-and-and-graph-data-in-spark-with-alastair-green-and-mats-rydberg)
 * [CYpher TO Sql Mapper (Cytosm)](https://github.com/cytosm/cytosm) (abandoned)
 * [ingraph: incremental graph queries](http://github.com/ftsrg/ingraph) (`cypher-to-sql` branch, abandoned)
 * [AgensGraph](https://github.com/bitnine-oss/agensgraph)
