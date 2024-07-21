@@ -65,3 +65,8 @@ Other papers:
 ## Factorized joins
 
 * [Factorized Databases](https://sigmodrecord.org/publications/sigmodRecord/1606/pdfs/03_principles_Olteanu.pdf) (SIGMOD Record 2016)
+
+### Relational databases and property graphs
+
+* [On Directly Mapping Relational Databases to Property Graphs](http://ceur-ws.org/Vol-2369/short06.pdf), AMW 2019
+* SAP HANA Graph: [blog post](https://blogs.sap.com/2020/04/27/create-graphs-on-sap-hana-cloud/), [tutorial](https://developers.sap.com/tutorials/hana-graph-overview-setup.html), using the [`CREATE GRAPH WORKSPACE`](https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/e6e1c7e2b9064b05b26572808f941ec4.html) language construct

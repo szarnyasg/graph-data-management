@@ -114,14 +114,3 @@ Legend:
 * [Morpheus: Cypher for Apache Spark](https://github.com/opencypher/morpheus) (abandoned) 📺 [slides](https://www.slideshare.net/databricks/neo4j-morpheus-interweaving-documents-tables-and-and-graph-data-in-spark-with-alastair-green-and-mats-rydberg)
 * [AgensGraph](https://github.com/bitnine-oss/agensgraph)
 * [Apache AGE](https://age.apache.org/)
-
-## Misc papers and talks
-
-### BFS
-
-* [An analysis of the SIGMOD 2014 Programming Contest: Complex queries on the LDBC social network graph](https://arxiv.org/pdf/2010.12243.pdf) by Márton Elekes et al. (technical report, 2020) and the BFS papers referenced in this report
-
-### Relational databases and property graphs
-
-* [On Directly Mapping Relational Databases to Property Graphs](http://ceur-ws.org/Vol-2369/short06.pdf), AMW 2019
-* SAP HANA Graph: [blog post](https://blogs.sap.com/2020/04/27/create-graphs-on-sap-hana-cloud/), [tutorial](https://developers.sap.com/tutorials/hana-graph-overview-setup.html), using the [`CREATE GRAPH WORKSPACE`](https://help.sap.com/viewer/4fe29514fd584807ac9f2a04f6754767/2.0.03/en-US/e6e1c7e2b9064b05b26572808f941ec4.html) language construct
