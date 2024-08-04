@@ -9,7 +9,17 @@ Legend:
 * 💫 worth skimming through
 * 📺 slides
 
-## Standardization
+## Systems supporting GQL and SQL/PGQ
+
+| System | Language | Developed in |
+|-|-|-|
+| [Oracle 23ai](https://oracle-base.com/articles/23/sql-property-graphs-and-sql-pgq-23) | SQL/PGQ | industry |
+| [Google Cloud Spanner Graph](https://cloud.google.com/blog/products/databases/announcing-spanner-graph) | GQL | industry |
+| [DuckPGQ](https://github.com/cwida/duckpgq-extension) | SQL/PGQ | academia |
+
+See also the joint announcement blog post [Neo4j](https://neo4j.com/blog/cypher-path-gql/) and [AWS Neptune](https://aws.amazon.com/blogs/database/gql-the-iso-standard-for-graphs-has-arrived/).
+
+## Standardization process
 
 * Property Graph Standards, Process & Timing by Keith Hare
   * [14th LDBC TUC (2021)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([🎥 recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
@@ -31,7 +41,12 @@ Legend:
 
 * ⚡️ [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021; [paper at SIGMOD 2022](https://dl.acm.org/doi/abs/10.1145/3514221.3526057)) by Alin Deutsch et al.
   * talk by Leonid Libkin (ENS Paris): [📺 slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [🎥 recording](https://youtu.be/OvGsa0qLANE)
-* [GQL Parser](https://github.com/OlofMorra/GQL-parser) (2021) by Olof Morra (TU Eindhoven)
+* [opengql GitHub organization](https://github.com/opengql) (maintained by LDBC)
+  * [grammar](https://github.com/opengql/grammar): ANTLR Grammar and related content for GQL.
+  * [editor](https://github.com/opengql/editor): GQL Code Editor.
+  * [railroad](https://github.com/opengql/railroad): Railroad diagrams for the GQL language
+  * [tck](https://github.com/opengql/tck): Technology Compatibility Kit (TCK) and infrastructure for GQL
+* [GQL Parser (academic prototype)](https://github.com/OlofMorra/GQL-parser) (2021) by Olof Morra (TU Eindhoven)
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
   * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
 
