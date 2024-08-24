@@ -45,7 +45,6 @@ See also the joint announcement blog post [Neo4j](https://neo4j.com/blog/cypher-
   * [grammar](https://github.com/opengql/grammar): ANTLR Grammar and related content for GQL.
   * [editor](https://github.com/opengql/editor): GQL Code Editor.
   * [railroad](https://github.com/opengql/railroad): Railroad diagrams for the GQL language
-  * [tck](https://github.com/opengql/tck): Technology Compatibility Kit (TCK) and infrastructure for GQL
 * [GQL Parser (academic prototype)](https://github.com/OlofMorra/GQL-parser) (2021) by Olof Morra (TU Eindhoven)
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
   * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
