@@ -1,6 +1,6 @@
 # Graph Data Management
 
-The content of this repository is deployed to <https://szarnyasg.github.io/graph-data-management>.
+This repository is stored at <https://github.com/szarnyasg/graph-data-management/> and its content is deployed to <https://szarnyasg.github.io/graph-data-management>.
 
 This repository contains pointers to the theory and practice of modern graph data management:
 
