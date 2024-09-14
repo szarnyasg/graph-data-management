@@ -32,11 +32,11 @@ See also the [GQL Parser prototype](https://github.com/OlofMorra/GQL-parser) fro
   * [14th LDBC TUC (2021)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) ([🎥 recording](https://www.youtube.com/watch?v=ZgFCuzods4g))
   * [15th LDBC TUC (2022)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) ([🎥 recording](https://www.youtube.com/watch?v=xFVD3LWnKlc))
   * [16th LDBC TUC (2023)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) ([🎥 recording](https://www.youtube.com/watch?v=LQYkal_0j6E))
-* [Pattern matching in GQL and SQL/PGQ](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([🎥 recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) (2022) by Leonid Libkin
-* [The Upcoming GQL Standard](https://zenodo.org/record/4903293) (2021) by Stefan Plantikow
-* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([🎥 recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) (2021) by Stefan Plantikow
-* [An overview of GQL](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) ([🎥 recording](https://www.youtube.com/watch?v=tncf2FgyIyo)) (2022) by Petra Selmer
-* [GQL 2.0: A technical manifesto](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) ([🎥 recording](https://www.youtube.com/watch?v=upIvpYy8C2g)) (2022) by Alastair Green
+* [Pattern matching in GQL and SQL/PGQ](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) ([🎥 recording](https://www.youtube.com/watch?v=OvGsa0qLANE)) by Leonid Libkin (2022)
+* [The Upcoming GQL Standard](https://zenodo.org/record/4903293) by Stefan Plantikow (2021)
+* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) ([🎥 recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)) by Stefan Plantikow (2021)
+* [An overview of GQL](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) ([🎥 recording](https://www.youtube.com/watch?v=tncf2FgyIyo)) by Petra Selmer (2022)
+* [GQL 2.0: A technical manifesto](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) ([🎥 recording](https://www.youtube.com/watch?v=upIvpYy8C2g)) by Alastair Green (2022)
 
 ## Online Resources
 
