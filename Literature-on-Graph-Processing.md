@@ -53,7 +53,6 @@ This page lists scientific works on graph processing.
 * ⚡️ [Graph query languages](https://szarnyasg.github.io/posts/graph-query-languages/) by Gábor Szárnyas (2021), the top 10 graph query languages
 * [Demystifying Graph Databases: Analysis and Taxonomy of Data Organization, System Designs, and Graph Queries](https://arxiv.org/pdf/1910.09017.pdf) by Maciej Besta et al. (preprint, 2020)
 * [Foundations of Modern Graph Query Languages](https://arxiv.org/pdf/1610.06264.pdf) by Renzo Angles et al. (ACM CSUR, 2017)
-* [A Survey Of Current Property Graph Query Languages](https://homepages.cwi.nl/~boncz/gql-survey.pdf) by Peter Boncz (2020), [talk](https://www.youtube.com/watch?v=oJmuRM9xpdU)
 * [The ubiquity of large graphs and surprising challenges of graph processing: Extended survey](https://link.springer.com/article/10.1007/s00778-019-00548-x) by Siddhartha Sahu et al. (VLDBJ 2020)
 
 ## Talks
