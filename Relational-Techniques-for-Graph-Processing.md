@@ -14,7 +14,7 @@
 * SIGMOD 2020 tutorial: [Optimal Join Algorithms Meet Top-k](https://northeastern-datalab.github.io/topk-join-tutorial/) `[WCOJ]`
 * [LIquid: Soul of a New Graph Database](https://uwaterloo.ca/data-systems-group/events/dsg-seminar-series-liquid-soul-new-graph-database) by Scott Meyer, presented at the University of Waterloo's DSG Seminar Series
   * [YouTube](https://www.youtube.com/watch?v=wKx-YZn9YQk)
-* [Relational databases can handle graphs too! Experiences with optimizing the Umbra RDBMS for LDBC SNB BI](https://youtu.be/cRgbdY3I2i4) ([slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/altan-birler-relational-databases-can-handle-graphs-too.pdf)) by Altan Birler (Technische Universität München), presented at the 15th LDBC TUC
+* [Relational databases can handle graphs too! Experiences with optimizing the Umbra RDBMS for LDBC SNB BI](https://youtu.be/cRgbdY3I2i4) ([slides](https://datasets.ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/altan-birler-relational-databases-can-handle-graphs-too.pdf)) by Altan Birler (Technische Universität München), presented at the 15th LDBC TUC
 
 ## Papers
 
@@ -37,7 +37,7 @@ Papers from the University of Waterloo:
 * [Distributed Evaluation of Subgraph Queries Using Worst-case Optimal Low-Memory Dataflows](http://www.vldb.org/pvldb/vol11/p691-ammar.pdf) by Khaled Ammar et al. (VLDB 2017)
 * [Optimizing subgraph queries by combining binary and worst-case optimal joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) by Amine Mhedhbi et al. (VLDB 2019)
 * [GRainDB: A Relational-core Graph-Relational DBMS](http://cidrdb.org/cidr2022/papers/p57-jin.pdf) ([recording](https://www.youtube.com/watch?v=KtbZ6YEDvo8)) by Guodong Jin et al. (CIDR 2022)
-  * [GRainDB: A Hybrid Graph-Relational DBMS](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/semih-salihoglu-graindb.pdf) ([recording](https://www.youtube.com/watch?v=FFK3y6vPHJs)) by Semih Salihoglu (LDBC TUC 2021)
+  * [GRainDB: A Hybrid Graph-Relational DBMS](https://datasets.ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/semih-salihoglu-graindb.pdf) ([recording](https://www.youtube.com/watch?v=FFK3y6vPHJs)) by Semih Salihoglu (LDBC TUC 2021)
 * [Integrating Column-Oriented Storage and Query Processing Techniques Into Graph Database Management Systems](https://arxiv.org/pdf/2103.02284.pdf) by Pranjal Gupta et al. (VLDB 2021)
 * [Making RDBMSs Efficient on Graph Workloads Through Predefined Joins](https://arxiv.org/pdf/2108.10540.pdf) by Guodong Jin and Semih Salihoglu (VLDB 2022)
 

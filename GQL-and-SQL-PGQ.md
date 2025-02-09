@@ -29,14 +29,14 @@ See also the [GQL Parser prototype](https://github.com/OlofMorra/GQL-parser) fro
 ## Standardization process
 
 * Property Graph Standards, Process & Timing by Keith Hare
-  * [14th LDBC TUC (2021)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) – [🎥 recording](https://www.youtube.com/watch?v=ZgFCuzods4g)
-  * [15th LDBC TUC (2022)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) – [🎥 recording](https://www.youtube.com/watch?v=xFVD3LWnKlc)
-  * [16th LDBC TUC (2023)](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) – [🎥 recording](https://www.youtube.com/watch?v=LQYkal_0j6E)
-* [Pattern matching in GQL and SQL/PGQ](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) by Leonid Libkin (2022) – [🎥 recording](https://www.youtube.com/watch?v=OvGsa0qLANE)
+  * [14th LDBC TUC (2021)](https://datasets.ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/keith-hare-database-language-standards-structure-and-process-sql-pgq.pdf) – [🎥 recording](https://www.youtube.com/watch?v=ZgFCuzods4g)
+  * [15th LDBC TUC (2022)](https://datasets.ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/keith-hare-property-graph-standards-process-and-timing.pdf) – [🎥 recording](https://www.youtube.com/watch?v=xFVD3LWnKlc)
+  * [16th LDBC TUC (2023)](https://datasets.ldbcouncil.org/event/sixteenth-tuc-meeting/attachments/keith-hare-an-update-on-the-gql-and-sql-pgq-standards-efforts.pdf) – [🎥 recording](https://www.youtube.com/watch?v=LQYkal_0j6E)
+* [Pattern matching in GQL and SQL/PGQ](https://datasets.ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf) by Leonid Libkin (2022) – [🎥 recording](https://www.youtube.com/watch?v=OvGsa0qLANE)
 * [The Upcoming GQL Standard](https://zenodo.org/record/4903293) by Stefan Plantikow (2021)
-* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) by Stefan Plantikow (2021) – [🎥 recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)
-* [An overview of GQL](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) by Petra Selmer (2022) – [🎥 recording](https://www.youtube.com/watch?v=tncf2FgyIyo)
-* [GQL 2.0: A technical manifesto](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) by Alastair Green (2022) – [🎥 recording](https://www.youtube.com/watch?v=upIvpYy8C2g)
+* [Towards GQL 1: Status report on the upcoming ISO/IEC graph query language standard](https://datasets.ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/stefan-plantikow-gql.pdf) by Stefan Plantikow (2021) – [🎥 recording](https://www.youtube.com/watch?v=z0pN5NwKsgc)
+* [An overview of GQL](https://datasets.ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/petra-selmer-towards-gql-v1-a-property-graph-query-language-standard.pdf) by Petra Selmer (2022) – [🎥 recording](https://www.youtube.com/watch?v=tncf2FgyIyo)
+* [GQL 2.0: A technical manifesto](https://datasets.ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/alastair-green-gql-2.0-a-technical-manifesto.pdf) by Alastair Green (2022) – [🎥 recording](https://www.youtube.com/watch?v=upIvpYy8C2g)
 
 ## Online Resources
 
@@ -46,7 +46,7 @@ See also the [GQL Parser prototype](https://github.com/OlofMorra/GQL-parser) fro
 
 ## Semantics
 
-* [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021; [paper at SIGMOD 2022](https://dl.acm.org/doi/abs/10.1145/3514221.3526057)) by Alin Deutsch et al. See the related presentation by Leonid Libkin (ENS Paris): [📺 slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [🎥 recording](https://youtu.be/OvGsa0qLANE)
+* [Graph Pattern Matching in GQL and SQL/PGQ](https://arxiv.org/pdf/2112.06217.pdf) (preprint, 2021; [paper at SIGMOD 2022](https://dl.acm.org/doi/abs/10.1145/3514221.3526057)) by Alin Deutsch et al. See the related presentation by Leonid Libkin (ENS Paris): [📺 slides](https://datasets.ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/leonid-libkin-pattern-matching-in-gql-and-sql-pgq.pdf), [🎥 recording](https://youtu.be/OvGsa0qLANE)
 
 ## Posts, talks, podcasts
 

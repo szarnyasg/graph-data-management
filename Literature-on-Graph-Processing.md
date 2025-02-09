@@ -32,7 +32,7 @@ This page lists scientific works on graph processing.
 * [G-SQL: Fast Query Processing via Graph Exploration](http://www.vldb.org/pvldb/vol9/p900-ma.pdf) by Hongbin Ma et al. (VLDB 2016)
 * [Cytosm: Declarative Property Graph Queries Without Data Migration](https://event.cwi.nl/grades/2017/04-Steer.pdf) by Benjamin A. Steer et al. (GRADES 2017)
 * [PGQL: a property graph query language](https://event.cwi.nl/grades/2016/07-VanRest.pdf) by Oskar van Rest et al. (GRADES 2016)
-* [Extending SQL for Computing Shortest Paths](https://ir.cwi.nl/pub/27563/27563.pdf) by Dean De Leo and Peter Boncz (GRADES 2017), talk at the LDBC TUC 2017, [📺 slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/ninth-tuc-meeting/attachments/59277315/75628546.pdf)
+* [Extending SQL for Computing Shortest Paths](https://ir.cwi.nl/pub/27563/27563.pdf) by Dean De Leo and Peter Boncz (GRADES 2017), talk at the LDBC TUC 2017, [📺 slides](https://datasets.ldbcouncil.org/event/ninth-tuc-meeting/attachments/59277315/75628546.pdf)
 * [GraphWrangler: An Interactive Graph View on Relational Data](https://dl.acm.org/doi/abs/10.1145/3299869.3320232), demo paper (SIGMOD 2019)
 * [Towards compiling graph queries in relational engines](https://dl.acm.org/doi/pdf/10.1145/3315507.3330200) (DBPL 2019)
 
@@ -58,7 +58,7 @@ This page lists scientific works on graph processing.
 ## Talks
 
 * ⚡️ 📺 [Graph database applications with SQL/PGQ](https://download.oracle.com/otndocs/products/spatial/pdf/AnD2020/AD_Develop_Graph_Apps_SQL_PGQ.pdf) by Jan Michels, Andy Witkowski, Oracle (2020)
-* ⚡️ 📺 [Property Graph Extensions for the SQL Standard](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/twelfth-tuc-meeting/attachments/106233859/111706119.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
+* ⚡️ 📺 [Property Graph Extensions for the SQL Standard](https://datasets.ldbcouncil.org/event/twelfth-tuc-meeting/attachments/106233859/111706119.pdf) by Vasileios Trigonakis and Oskar van Rest, Oracle (LDBC TUC 2019)
 
 ## Related
 
