@@ -22,7 +22,7 @@ See the [opengql GitHub organization](https://github.com/opengql) (maintained by
 * [editor](https://github.com/opengql/editor): GQL Code Editor.
 * [railroad](https://github.com/opengql/railroad): Railroad diagrams for the GQL language
 
-See also the [GQL Parser prototype](https://github.com/OlofMorra/GQL-parser) from 2021 by Olof Morra (TU Eindhoven)
+See also the [GQL Parser prototype](https://github.com/OlofMorra/GQL-parser) from 2021 by Olof Morra (TU Eindhoven).
   * [thesis](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/report/A%20Semantics%20of%20GQL;%20a%20New%20Query%20Language%20forProperty%20Graphs%20Formalized.pdf)
   * [presentation](https://github.com/OlofMorra/GQL-parser/blob/main/src/main/resources/Presentation/Final_presentation_GQL.pdf)
 
